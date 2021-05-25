@@ -1,5 +1,10 @@
 # Bekpes-Bot
-Personal Project for small scale Discord bot.
-Basically, this is a discord bot I made just for fun for my friends in our server.
-This bot has a few entertainment features like blackjack, magic 8-ball, poke and more like an insult command :)
-**most of the insults/jokes the bot uses are related to my friends and are inside jokes as well so yea you might not get it**
+Features:
+  - Poke (literally just another way to tag someone (twice... sigh) )
+  - Randomban (pretty self explanatory)
+  - 8ball (consult the magic 8ball about literally anything. Also, cornelius)
+  - Blackjack (for all you gambling addicts. No money or bets tho :P )
+  - Bekpes (random quotes, a few inside jokes and insults)
+  - Emote (random, kinda sus emotes to tag someone with)
+
+Command prefix is ; but currently no function was made to change prefix (will be added in future updates)
